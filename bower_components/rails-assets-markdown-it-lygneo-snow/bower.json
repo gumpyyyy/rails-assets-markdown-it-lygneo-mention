@@ -11,7 +11,7 @@
     "mention"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/gumpyyyy/rails-assets-markdown-it-lygneo-mention",
+  "homepage": "https://github.com/lygneo/markdown-it-lygneo-mention",
   "ignore": [
     "**/.*",
     "benchmark",
