@@ -11,7 +11,7 @@
     "mention"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/gumpyyyy/markdown-it-lygneo-mention",
+  "homepage": "https://github.com/lygneo/markdown-it-lygneo-mention",
   "ignore": [
     "**/.*",
     "benchmark",
@@ -25,8 +25,5 @@
     "test",
     "Makefile",
     "index*"
-  ],
-  "dependencies": {
-    "markdown-it-lygneo-mention": "~0.2.1"
-  }
+  ]
 }

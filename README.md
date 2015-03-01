@@ -42,7 +42,7 @@ md.render('@{Foo Bar; foo@bar.baz}'); // => '<a href="/my/awesome/url" class="me
 ```
 
 _Differences in browser._ If you load the script directly into the page, without
-package system, module will add itself globally as `window.markdownitLygneoMention`.
+package system, module will add itself globally as `window.markdownitLygnoMention`.
 
 ## License
 

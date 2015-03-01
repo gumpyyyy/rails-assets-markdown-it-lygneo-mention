@@ -28,7 +28,7 @@ browserify:
 	mkdir dist
 	# Browserify
 	( printf "/*! ${NPM_PACKAGE} ${NPM_VERSION} ${GITHUB_PROJ} @license MIT */" ; \
-		./node_modules/.bin/browserify ./ -s markdownitLygneoMention \
+		./node_modules/.bin/browserify ./ -s markdownitLygnoMention \
 		) > dist/markdown-it-lygneo-mention.js
 	# Minify
 	./node_modules/.bin/uglifyjs dist/markdown-it-lygneo-mention.js -b beautify=false,ascii-only=true -c -m \

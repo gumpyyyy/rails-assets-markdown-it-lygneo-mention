@@ -9,13 +9,13 @@
     "lygneo",
     "mention"
   ],
-  "homepage": "https://github.com/gumpyyyy/markdown-it-lygneo-mention",
+  "homepage": "https://github.com/lygneo/markdown-it-lygneo-mention",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gumpyyyy/markdown-it-lygneo-mention.git"
+    "url": "git://github.com/lygneo/markdown-it-lygneo-mention.git"
   },
   "bugs": {
-    "url": "https://github.com/gumpyyyy/markdown-it-lygneo-mention/issues"
+    "url": "https://github.com/lygneo/markdown-it-lygneo-mention/issues"
   },
   "license": "MIT",
   "main": "index.js",
