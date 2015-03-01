@@ -1,0 +1,29 @@
+{
+  "name": "markdown-it-lygneo-mention",
+  "main": "dist/markdown-it-lygneo-mention.js",
+  "version": "0.2.1",
+  "description": "lygneo* mentions for markdown-it markdown parser",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "lygneo",
+    "mention"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lygneo/markdown-it-lygneo-mention",
+  "ignore": [
+    "**/.*",
+    "benchmark",
+    "bower_components",
+    "coverage",
+    "demo",
+    "docs",
+    "lib",
+    "node_modules",
+    "support",
+    "test",
+    "Makefile",
+    "index*"
+  ]
+}

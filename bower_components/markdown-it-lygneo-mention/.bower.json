@@ -1,0 +1,39 @@
+{
+  "name": "markdown-it-diaspora-mention",
+  "main": "dist/markdown-it-diaspora-mention.js",
+  "version": "0.2.1",
+  "description": "diaspora* mentions for markdown-it markdown parser",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "diaspora",
+    "mention"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/diaspora/markdown-it-diaspora-mention",
+  "ignore": [
+    "**/.*",
+    "benchmark",
+    "bower_components",
+    "coverage",
+    "demo",
+    "docs",
+    "lib",
+    "node_modules",
+    "support",
+    "test",
+    "Makefile",
+    "index*"
+  ],
+  "_release": "0.2.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.1",
+    "commit": "e51f1cc14a59d425b9eb35f4ae4c9e25eeac2bfd"
+  },
+  "_source": "git://github.com/diaspora/markdown-it-diaspora-mention.git",
+  "_target": "~0.2.1",
+  "_originalSource": "markdown-it-diaspora-mention",
+  "_direct": true
+}
